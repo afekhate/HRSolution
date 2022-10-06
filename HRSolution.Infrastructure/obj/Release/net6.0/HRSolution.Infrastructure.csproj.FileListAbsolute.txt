@@ -1,0 +1,17 @@
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Infrastructure.deps.json
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Infrastructure.runtimeconfig.json
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Infrastructure.pdb
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\bin\Release\net6.0\HRSolution.Utilities.pdb
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.AssemblyInfo.cs
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.csproj.CopyComplete
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\refint\HRSolution.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.pdb
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\HRSolution.Infrastructure.genruntimeconfig.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Infrastructure\obj\Release\net6.0\ref\HRSolution.Infrastructure.dll

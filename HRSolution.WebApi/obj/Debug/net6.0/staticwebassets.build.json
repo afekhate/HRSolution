@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "M8WgpU5zTS9h68fU1N1lhr940Utdaqm6hXESvqTvZHQ=",
+  "Source": "HRSolution.WebApi",
+  "BasePath": "_content/HRSolution.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\noty.js",
+      "SourceId": "NToastNotify",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\",
+      "BasePath": "_content/NToastNotify",
+      "RelativePath": "noty.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\noty.js"
+    },
+    {
+      "Identity": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\toastr.js",
+      "SourceId": "NToastNotify",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\",
+      "BasePath": "_content/NToastNotify",
+      "RelativePath": "toastr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\fredrickafekhare\\.nuget\\packages\\ntoastnotify\\8.0.0\\staticwebassets\\toastr.js"
+    }
+  ]
+}

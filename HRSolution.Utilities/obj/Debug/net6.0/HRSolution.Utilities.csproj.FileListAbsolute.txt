@@ -1,0 +1,24 @@
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.deps.json
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.pdb
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.AssemblyInfo.cs
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\refint\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.pdb
+C:\Users\fredrickafekhare\source\repos\HRSolution.Utilities\obj\Debug\net6.0\ref\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.deps.json
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\bin\Debug\net6.0\HRSolution.Utilities.pdb
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.AssemblyInfo.cs
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\refint\HRSolution.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\HRSolution.Utilities.pdb
+C:\Users\fredrickafekhare\Desktop\Globus Projects\HRsolution\HRSolution.Utilities\obj\Debug\net6.0\ref\HRSolution.Utilities.dll
